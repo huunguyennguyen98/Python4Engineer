@@ -1,7 +1,8 @@
 
 # Python4Engineer
 * Họ và tên: Nguyễn Hữu Nguyên
-* 22MSE23050
+* Mã học viên: 22MSE23050
+* Email: nguyen22mse23050@fsb.edu.vn
 
 | Bài tập    | Đường dẫn mở bài tập |
 | ---------- |:-------------:|
